@@ -1,0 +1,132 @@
+Z:/Desktop/template_de1soc/widereg.v {1 {vlog -work work -stats=none Z:/Desktop/template_de1soc/widereg.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module widereg
+
+Top level modules:
+	widereg
+
+} {} {}} Z:/Desktop/template_de1soc/Generate_Arbitrary_Divided_Clk32.v {1 {vlog -work work -stats=none Z:/Desktop/template_de1soc/Generate_Arbitrary_Divided_Clk32.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module Generate_Arbitrary_Divided_Clk32
+
+Top level modules:
+	Generate_Arbitrary_Divided_Clk32
+
+} {} {}} Z:/Desktop/template_de1soc/doublesync.v {1 {vlog -work work -stats=none Z:/Desktop/template_de1soc/doublesync.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module doublesync
+
+Top level modules:
+	doublesync
+
+} {} {}} Z:/Desktop/template_de1soc/Write_Kbd_To_Scope_LCD.v {1 {vlog -work work -stats=none Z:/Desktop/template_de1soc/Write_Kbd_To_Scope_LCD.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module Write_Kbd_To_Scope_LCD
+
+Top level modules:
+	Write_Kbd_To_Scope_LCD
+
+} {} {}} Z:/Desktop/template_de1soc/simple_ipod_solution.v {0 {vlog -work work -stats=none Z:/Desktop/template_de1soc/simple_ipod_solution.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module simple_ipod_solution
+** Error: Z:/Desktop/template_de1soc/simple_ipod_solution.v(125): near ";": Syntax error.
+** Error: Z:/Desktop/template_de1soc/simple_ipod_solution.v(128): (vlog-2730) Undefined variable: 'LED'.
+
+** Error: Z:/Desktop/template_de1soc/simple_ipod_solution.v(320): (vlog-2388) 'kbd_received_ascii_code' already declared in this scope (simple_ipod_solution).
+
+** Error: Z:/Desktop/template_de1soc/simple_ipod_solution.v(405): near ";": Syntax error.
+** Error: Z:/Desktop/template_de1soc/simple_ipod_solution.v(406): near ";": Syntax error.
+** Error: Z:/Desktop/template_de1soc/simple_ipod_solution.v(521): (vlog-2730) Undefined variable: 'speed_up_event_trigger'.
+
+** Error: Z:/Desktop/template_de1soc/simple_ipod_solution.v(526): (vlog-2730) Undefined variable: 'speed_down_event_trigger'.
+
+** Error: Z:/Desktop/template_de1soc/simple_ipod_solution.v(538): (vlog-2388) 'speed_up_event_trigger' already declared in this scope (simple_ipod_solution).
+
+** Error: Z:/Desktop/template_de1soc/simple_ipod_solution.v(539): (vlog-2388) 'speed_down_event_trigger' already declared in this scope (simple_ipod_solution).
+
+** Error: Z:/Desktop/template_de1soc/simple_ipod_solution.v(584): near "[": syntax error, unexpected '[', expecting IDENTIFIER or TYPE_IDENTIFIER
+** Error: Z:/Desktop/template_de1soc/simple_ipod_solution.v(595): near "[": syntax error, unexpected '[', expecting IDENTIFIER or TYPE_IDENTIFIER
+** Error: Z:/Desktop/template_de1soc/simple_ipod_solution.v(598): (vlog-2730) Undefined variable: 'Seven_Seg_Val'.
+
+** Error: Z:/Desktop/template_de1soc/simple_ipod_solution.v(598): (vlog-2730) Undefined variable: 'Seven_Seg_Data'.
+
+** Error: Z:/Desktop/template_de1soc/simple_ipod_solution.v(623): near "[": syntax error, unexpected '[', expecting IDENTIFIER or TYPE_IDENTIFIER
+
+} {4.0 6.0 7.0 8.0 9.0 12.0 13.0 14.0 15.0 16.0 17.0 18.0 19.0 22.0 23.0 24.0 25.0 26.0} {}} Z:/Desktop/template_de1soc/address_increment.v {1 {vlog -work work -stats=none Z:/Desktop/template_de1soc/address_increment.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module address_designator
+
+Top level modules:
+	address_designator
+
+} {} {}} Z:/Desktop/template_de1soc/clock_divider_lab2.v {1 {vlog -work work -stats=none Z:/Desktop/template_de1soc/clock_divider_lab2.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module clock_divider
+
+Top level modules:
+	clock_divider
+
+} {} {}} Z:/Desktop/template_de1soc/keyboardFSM_tb.v {1 {vlog -work work -stats=none Z:/Desktop/template_de1soc/keyboardFSM_tb.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module keyboardFSM_tb
+
+Top level modules:
+	keyboardFSM_tb
+
+} {} {}} Z:/Desktop/template_de1soc/LCD_Scope_Encapsulated_pacoblaze_wrapper.v {1 {vlog -work work -stats=none Z:/Desktop/template_de1soc/LCD_Scope_Encapsulated_pacoblaze_wrapper.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module LCD_Scope_Encapsulated_pacoblaze_wrapper
+
+Top level modules:
+	LCD_Scope_Encapsulated_pacoblaze_wrapper
+
+} {} {}} Z:/Desktop/template_de1soc/keyboard_FSM.v {1 {vlog -work work -stats=none Z:/Desktop/template_de1soc/keyboard_FSM.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module keyboard_FSM
+
+Top level modules:
+	keyboard_FSM
+
+} {} {}} Z:/Desktop/template_de1soc/Write_Kbd_To_LCD.v {1 {vlog -work work -stats=none Z:/Desktop/template_de1soc/Write_Kbd_To_LCD.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module Write_Kbd_To_LCD
+
+Top level modules:
+	Write_Kbd_To_LCD
+
+} {} {}} Z:/Desktop/template_de1soc/read_flash.v {1 {vlog -work work -stats=none Z:/Desktop/template_de1soc/read_flash.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module read_flash_FSM
+
+Top level modules:
+	read_flash_FSM
+
+} {} {}} Z:/Desktop/template_de1soc/data_output.v {1 {vlog -work work -stats=none Z:/Desktop/template_de1soc/data_output.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module data_output
+
+Top level modules:
+	data_output
+
+} {} {}} Z:/Desktop/template_de1soc/key2ascii.v {1 {vlog -work work -stats=none Z:/Desktop/template_de1soc/key2ascii.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module key2ascii
+
+Top level modules:
+	key2ascii
+
+} {} {}} Z:/Desktop/template_de1soc/Kbd_ctrl.v {1 {vlog -work work -stats=none Z:/Desktop/template_de1soc/Kbd_ctrl.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module Kbd_ctrl
+
+Top level modules:
+	Kbd_ctrl
+
+} {} {}} Z:/Desktop/template_de1soc/read_flash_tb.v {1 {vlog -work work -stats=none Z:/Desktop/template_de1soc/read_flash_tb.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module readflash_tb
+
+Top level modules:
+	readflash_tb
+
+} {} {}}

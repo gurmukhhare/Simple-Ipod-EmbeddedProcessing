@@ -1,0 +1,318 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/altera/14.1
+vaddress_designator
+Z0 !s110 1581604239
+!i10b 1
+!s100 JgfQNSR9GZOklaH:adEbD3
+IYii]WUTc8:PHdLoWoez[R1
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+Z2 dZ:/Desktop/template_de1soc
+w1581599281
+8Z:/Desktop/template_de1soc/address_increment.v
+FZ:/Desktop/template_de1soc/address_increment.v
+L0 3
+Z3 OV;L;10.3c;59
+r1
+!s85 0
+31
+!s108 1581604239.545000
+!s107 Z:/Desktop/template_de1soc/address_increment.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Desktop/template_de1soc/address_increment.v|
+!i113 1
+Z4 o-work work
+vclock_divider
+Z5 !s110 1581604238
+!i10b 1
+!s100 lZPhJRBkcWlaCNWz;^4zL3
+Ie1H<Fz?zGkUm_0TESGNMW3
+R1
+R2
+w1581038282
+8Z:/Desktop/template_de1soc/clock_divider_lab2.v
+FZ:/Desktop/template_de1soc/clock_divider_lab2.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1581604238.858000
+!s107 Z:/Desktop/template_de1soc/clock_divider_lab2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Desktop/template_de1soc/clock_divider_lab2.v|
+!i113 1
+R4
+vdata_output
+R0
+!i10b 1
+!s100 903SW<X;9GaU@<n;Ek7<A3
+I90zAMUfzAFkFaacNcKMfZ3
+R1
+R2
+w1581599903
+8Z:/Desktop/template_de1soc/data_output.v
+FZ:/Desktop/template_de1soc/data_output.v
+L0 87
+R3
+r1
+!s85 0
+31
+!s108 1581604239.733000
+!s107 Z:/Desktop/template_de1soc/data_output.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Desktop/template_de1soc/data_output.v|
+!i113 1
+R4
+vdoublesync
+Z6 !s110 1581604236
+!i10b 1
+!s100 h[h?dcIHcN;P79NdP34S[0
+IgQ0PflbJNQeA>T_mUlmUn0
+R1
+R2
+w986857174
+8Z:/Desktop/template_de1soc/doublesync.v
+FZ:/Desktop/template_de1soc/doublesync.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1581604236.389000
+!s107 Z:/Desktop/template_de1soc/doublesync.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Desktop/template_de1soc/doublesync.v|
+!i113 1
+R4
+vGenerate_Arbitrary_Divided_Clk32
+R6
+!i10b 1
+!s100 8=iGlzck0b@NKb_VFN7YH2
+Iz@:>KmYDo1eXg7LYz`8[B1
+R1
+R2
+w1217270720
+8Z:/Desktop/template_de1soc/Generate_Arbitrary_Divided_Clk32.v
+FZ:/Desktop/template_de1soc/Generate_Arbitrary_Divided_Clk32.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1581604236.530000
+!s107 Z:/Desktop/template_de1soc/Generate_Arbitrary_Divided_Clk32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Desktop/template_de1soc/Generate_Arbitrary_Divided_Clk32.v|
+!i113 1
+R4
+n@generate_@arbitrary_@divided_@clk32
+vKbd_ctrl
+R6
+!i10b 1
+!s100 CI06[H]^[Hn@czMKIDPVg3
+ITL^OG_2JUO1?PP;kn?=AT2
+R1
+R2
+w1250904742
+8Z:/Desktop/template_de1soc/Kbd_ctrl.v
+FZ:/Desktop/template_de1soc/Kbd_ctrl.v
+L0 22
+R3
+r1
+!s85 0
+31
+!s108 1581604236.670000
+!s107 Z:/Desktop/template_de1soc/Kbd_ctrl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Desktop/template_de1soc/Kbd_ctrl.v|
+!i113 1
+R4
+n@kbd_ctrl
+vkey2ascii
+R6
+!i10b 1
+!s100 ^<?o;lZSLa>AebeLX[[lU1
+I86_e=V;7<AfVKPNog9X=f0
+R1
+R2
+w1219099108
+8Z:/Desktop/template_de1soc/key2ascii.v
+FZ:/Desktop/template_de1soc/key2ascii.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1581604236.858000
+!s107 Z:/Desktop/template_de1soc/key2ascii.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Desktop/template_de1soc/key2ascii.v|
+!i113 1
+R4
+vkeyboard_FSM
+R5
+!i10b 1
+!s100 2OnSUIZ;3>]AL?Uo<>i6`1
+IAZVg0NUA`c2[eF3VZUVmi0
+R1
+R2
+w1581593664
+8Z:/Desktop/template_de1soc/keyboard_FSM.v
+FZ:/Desktop/template_de1soc/keyboard_FSM.v
+L0 18
+R3
+r1
+!s85 0
+31
+!s108 1581604238.530000
+!s107 Z:/Desktop/template_de1soc/keyboard_FSM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Desktop/template_de1soc/keyboard_FSM.v|
+!i113 1
+R4
+nkeyboard_@f@s@m
+vkeyboardFSM_tb
+!s110 1581604345
+!i10b 1
+!s100 ENZeC@iei6j<ggbC^FV>?3
+IITRSP9PdKnJ]:H^UcBjPU3
+R1
+R2
+w1581604341
+8Z:/Desktop/template_de1soc/keyboardFSM_tb.v
+FZ:/Desktop/template_de1soc/keyboardFSM_tb.v
+L0 11
+R3
+r1
+!s85 0
+31
+!s108 1581604345.027000
+!s107 Z:/Desktop/template_de1soc/keyboardFSM_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Desktop/template_de1soc/keyboardFSM_tb.v|
+!i113 1
+R4
+nkeyboard@f@s@m_tb
+vLCD_Scope_Encapsulated_pacoblaze_wrapper
+Z7 !s110 1581604237
+!i10b 1
+!s100 FoFm9Xbm^6EPmFgPLScoo1
+IZ5f6;mWii?enSI:0>3=982
+R1
+R2
+w1462691686
+8Z:/Desktop/template_de1soc/LCD_Scope_Encapsulated_pacoblaze_wrapper.v
+FZ:/Desktop/template_de1soc/LCD_Scope_Encapsulated_pacoblaze_wrapper.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1581604236.998000
+!s107 Z:/Desktop/template_de1soc/LCD_Scope_Encapsulated_pacoblaze_wrapper.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Desktop/template_de1soc/LCD_Scope_Encapsulated_pacoblaze_wrapper.v|
+!i113 1
+R4
+n@l@c@d_@scope_@encapsulated_pacoblaze_wrapper
+vread_flash_FSM
+R0
+!i10b 1
+!s100 d<14bjXkO2:gASS>DETzC3
+ICbX^6bjhk^m[2c8RcDM]i1
+R1
+R2
+w1581593389
+8Z:/Desktop/template_de1soc/read_flash.v
+FZ:/Desktop/template_de1soc/read_flash.v
+L0 9
+R3
+r1
+!s85 0
+31
+!s108 1581604239.170000
+!s107 Z:/Desktop/template_de1soc/read_flash.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Desktop/template_de1soc/read_flash.v|
+!i113 1
+R4
+nread_flash_@f@s@m
+vreadflash_tb
+!s110 1581604240
+!i10b 1
+!s100 >;6J_KgEEPc2MAQeYn7J82
+I30L73=9:O3a23GDTJ^SJ?1
+R1
+R2
+w1581579815
+8Z:/Desktop/template_de1soc/read_flash_tb.v
+FZ:/Desktop/template_de1soc/read_flash_tb.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1581604240.295000
+!s107 Z:/Desktop/template_de1soc/read_flash_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Desktop/template_de1soc/read_flash_tb.v|
+!i113 1
+R4
+vwidereg
+R7
+!i10b 1
+!s100 z;jGJN]RgGA;2BeodJ;5K1
+ILKSJkK:<j8I2L9K_jiWcE3
+R1
+R2
+w961807228
+8Z:/Desktop/template_de1soc/widereg.v
+FZ:/Desktop/template_de1soc/widereg.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1581604237.639000
+!s107 Z:/Desktop/template_de1soc/widereg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Desktop/template_de1soc/widereg.v|
+!i113 1
+R4
+vWrite_Kbd_To_LCD
+R5
+!i10b 1
+!s100 6LZOEHjZAAdDZ[<T;Sc7Q1
+IWO7dN@O23h][IdPJnUb4O2
+R1
+R2
+w1205340654
+8Z:/Desktop/template_de1soc/Write_Kbd_To_LCD.v
+FZ:/Desktop/template_de1soc/Write_Kbd_To_LCD.v
+Z8 L0 21
+R3
+r1
+!s85 0
+31
+!s108 1581604238.186000
+!s107 Z:/Desktop/template_de1soc/Write_Kbd_To_LCD.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Desktop/template_de1soc/Write_Kbd_To_LCD.v|
+!i113 1
+R4
+n@write_@kbd_@to_@l@c@d
+vWrite_Kbd_To_Scope_LCD
+R6
+!i10b 1
+!s100 a``?9?@fSUL[GYkNfNnSe0
+IX4?b^@GBmPTKJdiRf@BLP3
+R1
+R2
+w1250904758
+8Z:/Desktop/template_de1soc/Write_Kbd_To_Scope_LCD.v
+FZ:/Desktop/template_de1soc/Write_Kbd_To_Scope_LCD.v
+R8
+R3
+r1
+!s85 0
+31
+!s108 1581604236.030000
+!s107 Z:/Desktop/template_de1soc/Write_Kbd_To_Scope_LCD.v|
+!s90 -reportprogress|300|-work|work|-stats=none|Z:/Desktop/template_de1soc/Write_Kbd_To_Scope_LCD.v|
+!i113 1
+R4
+n@write_@kbd_@to_@scope_@l@c@d
